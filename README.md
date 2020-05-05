@@ -3,7 +3,7 @@
 
 Resources for the ਸਿਹਤ - SIHATA project
 
-![Image of Teleconsult] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telemedicine_Consult.jpg/320px-Telemedicine_Consult.jpg)
+![Image of Teleconsult](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telemedicine_Consult.jpg/320px-Telemedicine_Consult.jpg)
 
 
 
