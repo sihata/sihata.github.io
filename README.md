@@ -3,6 +3,10 @@
 
 Resources for the ਸਿਹਤ - SIHATA project
 
+![Image of Teleconsult] (https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telemedicine_Consult.jpg/320px-Telemedicine_Consult.jpg)
+
+
+
 ### Disclaimer:
 This site is primarily for the dissemination of authenticated collaterals produced by the professionals working under the aegis of TBD organization name, and its associates for training of registered medical professionals in the practice of telemedicine (primarily tele consultation). There is no warranty, or liability on the collaterals and artifacts contained herein.
 
