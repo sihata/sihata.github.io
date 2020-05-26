@@ -15,3 +15,5 @@ Users are expected to ascertain the validity of the content against the latest g
 [Click here for the MoHFW, GoI guidelines on Telemedicine](https://www.mohfw.gov.in/pdf/Telemedicine.pdf)
 
 All material is licensed under "Creative Commons Attribution-ShareAlike 2.5 India". We do NOT guarantee any personal data protection or privacy rights adherence. Users and contributors, alike, are advised to diligently avoid submissions of any information they do not wish to make public. Disputes are subject to the jurisdiction of the courts in New Delhi, India only.
+
+[Contributors' Disclaimer](https://sihata.github.io/DISCLAIMER)
